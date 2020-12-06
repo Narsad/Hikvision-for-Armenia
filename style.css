@@ -8,8 +8,9 @@
     border: 0;
 }
 body{
-    max-width: 1920px;
+    max-width: 3000px;
     width: 100%;
+    margin: auto;
 }
             /* Header */
             
